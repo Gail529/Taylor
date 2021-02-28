@@ -1,5 +1,7 @@
 # Content-based /Mood aware Recommendation system for Taylor Swift's Songs
 
+<img src="taylor_images/tay_img3.png" width="800"/>
+
 ### Created a recommendation engine that recommends a Taylor Swift song based on the mood of the user.
 - Gathered audio features such as (danceability and popularity) from the Spotify API.
 - Scraped song lyrics from the web using Beautiful Soup.
@@ -36,11 +38,9 @@ Using The NRC emotion lexicon I created a dataframe showing the emotional inclin
 ### Visualizing the emotional,lyrical and audio features present in her songs.
 [Taylor_analysis.ipynb](Taylor_analysis.ipynb)
 
-<img src="taylor_images/taylorimg1.png" width="600"/> <img src="taylor_images/taylorimg2.png" width="600"/>
-<img src="taylor_images/tayimg3.png" width="400"/> <img src="taylor_images/tayimg4.png" width="400"/> <img src="taylor_images/tayimg5.png" width="400"/>
+<img src="taylor_images/taylorimg1.png" width="500"/> <img src="taylor_images/tayimg3.png" width="400"/> <img src="taylor_images/taylorimg2.png" width="500"/>
+ <img src="taylor_images/tayimg4.png" width="400"/> <img src="taylor_images/tayimg5.png" width="400"/>
 <img src="taylor_images/tayimg7.png" width="400"/> <img src="taylor_images/tayimg8.png" width="400"/> <img src="taylor_images/tayimg8.png" width="400"/> 
-
-
 
 ### Making Recommendations
 [app.ipynb](app.ipynb)
